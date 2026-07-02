@@ -54,10 +54,10 @@ Here are some highlights from my portfolio:
 ### 📫 Connect with me
 
 <p>
-  <a href="mailto:s_nkwaneebongue24@stud.hwr-berlin.de">
+  <a href="mailto:jynkwa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/yves-nkwane-587ab720b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
