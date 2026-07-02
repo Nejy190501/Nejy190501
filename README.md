@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jean Yves
+# Hi there, I'm Jean Yves!
 
 Welcome to my GitHub! I am an aspiring **Business Informatics Student** based in Berlin. I love solving complex problems, building intuitive applications, and exploring data.
 
