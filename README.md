@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Jean Yves Nkwane Ebongue
 
-Welcome to my GitHub! I am an aspiring **Software Engineer** and **Business Informatics Student** based in Berlin. I love solving complex problems, building intuitive applications, and exploring data.
+Welcome to my GitHub! I am an aspiring **Business Informatics Student** based in Berlin. I love solving complex problems, building intuitive applications, and exploring data.
 
 ### 🚀 About Me
-- 🎓 Studying Computer Science / Business Informatics in Germany (HWR Berlin & Brandenburg University of Applied Sciences).
+- 🎓 Studying Business Informatics in Germany (HWR Berlin & Brandenburg University of Applied Sciences).
 - 💻 Passionate about **Full-Stack Web Development**, **Mobile Apps (Android)**, and **Data Analytics**.
 - 🌱 Currently learning more about modern cloud architectures and AI integration.
-- 💼 Actively looking for a **Working Student** or **Internship** position in Software Engineering.
+- 💼 Actively looking for a **Working Student** or **Internship** position in **Software Engineering** and **Data Analytics/Data Science**.
 
 ---
 
