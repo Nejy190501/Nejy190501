@@ -48,6 +48,8 @@ Here are some highlights from my portfolio:
 - 💍 **[Wedding Planner App](https://github.com/Nejy190501/wedding-planner-react-app)** - An elegant, interactive React application using Firebase for real-time guest RSVPs and Leaflet for maps.
 - 📊 **[Global Finance Analytics](https://github.com/Nejy190501/global-finance-data-analytics)** - A Python/Pandas research project investigating the relationship between financial sector development and economic growth across 216 countries.
 - 🎮 **[Java Multiplayer Quiz](https://github.com/Nejy190501/java-multiplayer-quiz)** - A classic Client-Server application demonstrating TCP Sockets, Multithreading, and GUI design in Java.
+- 💍 [**Wedding Photo Live**](https://github.com/Nejy190501/wedding-photo-live) - A real-time collaborative photo gallery and slideshow for weddings, built with React, Vite, and Firebase. ([Live Demo](https://photos-mariage-leonie-liverance.netlify.app/))
+
 
 ---
 
