@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Jean-Yves Nkwane 👋</h1>
+  <h1>Hi there, I'm Jean Yves Nkwane 👋</h1>
   <h3>🎓 Business Informatics Student @ HWR Berlin | Full-Stack, Android & Data Analytics</h3>
 
   <p>
@@ -70,7 +70,7 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nejy190501&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jean-Yves's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nejy190501&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jean Yves's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nejy190501&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
