@@ -70,8 +70,11 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nejy190501&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jean Yves's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nejy190501&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nejy190501&theme=radical" alt="Jean Yves's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nejy190501&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nejy190501&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
